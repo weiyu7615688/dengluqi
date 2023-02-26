@@ -1,0 +1,11 @@
+E:\HkTcpServer\HkTcpServer\bin\x64\Release\HkTcpServer.exe.config
+E:\HkTcpServer\HkTcpServer\bin\x64\Release\HkTcpServer.exe
+E:\HkTcpServer\HkTcpServer\bin\x64\Release\HkTcpServer.pdb
+E:\HkTcpServer\HkTcpServer\bin\x64\Release\HPSocketCS.dll
+E:\HkTcpServer\HkTcpServer\obj\x64\Release\HkTcpServer.HkNetForm.resources
+E:\HkTcpServer\HkTcpServer\obj\x64\Release\HkTcpServer.csproj.GenerateResource.cache
+E:\HkTcpServer\HkTcpServer\obj\x64\Release\HkTcpServer.csproj.CoreCompileInputs.cache
+E:\HkTcpServer\HkTcpServer\obj\x64\Release\HkTcpServer.csproj.CopyComplete
+E:\HkTcpServer\HkTcpServer\obj\x64\Release\HkTcpServer.exe
+E:\HkTcpServer\HkTcpServer\obj\x64\Release\HkTcpServer.pdb
+E:\HkTcpServer\HkTcpServer\obj\x64\Release\HkTcpServer.csprojAssemblyReference.cache

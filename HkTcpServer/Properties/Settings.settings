@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IoNetWork.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">35128</Value>
+    </Setting>
+    <Setting Name="MaxCon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1024</Value>
+    </Setting>
+    <Setting Name="BPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8085</Value>
+    </Setting>
+    <Setting Name="ZPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8086</Value>
+    </Setting>
+    <Setting Name="DPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3724</Value>
+    </Setting>
+    <Setting Name="TelecomIp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="MobileIp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="UnicomIp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="NameList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">超级豪华特色服</Value>
+    </Setting>
+    <Setting Name="Contents" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Register" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Stuck" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="CgPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="DBHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="DBRoot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="DBPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="DBPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="DBAuth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">auth</Value>
+    </Setting>
+    <Setting Name="DBChar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">characters</Value>
+    </Setting>
+    <Setting Name="GameVe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="PMd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ShopUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="GwUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="Forward" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="PName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">patch-zhCN-Z.MPQ|</Value>
+    </Setting>
+    <Setting Name="ModKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

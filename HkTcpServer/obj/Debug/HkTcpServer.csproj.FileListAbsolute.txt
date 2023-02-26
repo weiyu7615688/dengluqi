@@ -1,0 +1,12 @@
+E:\A-En-HkTcpServer\HkTcpServer\bin\Debug\登录器网关.exe
+E:\A-En-HkTcpServer\HkTcpServer\bin\Debug\登录器网关.pdb
+E:\A-En-HkTcpServer\HkTcpServer\bin\Debug\MySql.Data.dll
+E:\A-En-HkTcpServer\HkTcpServer\obj\Debug\HkTcpServer.csprojAssemblyReference.cache
+E:\A-En-HkTcpServer\HkTcpServer\obj\Debug\IoNetWork.HkNetForm.resources
+E:\A-En-HkTcpServer\HkTcpServer\obj\Debug\HkTcpServer.csproj.GenerateResource.cache
+E:\A-En-HkTcpServer\HkTcpServer\obj\Debug\HkTcpServer.csproj.CoreCompileInputs.cache
+E:\A-En-HkTcpServer\HkTcpServer\obj\Debug\HkTcpServer.csproj.CopyComplete
+E:\A-En-HkTcpServer\HkTcpServer\obj\Debug\登录器网关.exe
+E:\A-En-HkTcpServer\HkTcpServer\obj\Debug\登录器网关.pdb
+D:\TheLan\My\A-En-HkTcpServer\HkTcpServer\obj\Debug\IoNetWork.HkNetForm.resources
+D:\TheLan\My\A-En-HkTcpServer\HkTcpServer\obj\Debug\HkTcpServer.csproj.GenerateResource.Cache
